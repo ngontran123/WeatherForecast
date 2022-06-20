@@ -1,0 +1,10 @@
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\bin\Debug\WeatherforecastServer.exe.config
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\bin\Debug\WeatherforecastServer.exe
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\bin\Debug\WeatherforecastServer.pdb
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\obj\Debug\WeatherforecastServer.csprojAssemblyReference.cache
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\obj\Debug\WeatherforecastServer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\obj\Debug\WeatherforecastServer.csproj.CopyComplete
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\obj\Debug\WeatherforecastServer.exe
+C:\Users\Acer\Source\Repos\WeatherforecastServer\WeatherforecastServer\obj\Debug\WeatherforecastServer.pdb
